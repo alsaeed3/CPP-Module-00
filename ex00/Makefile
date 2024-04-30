@@ -6,7 +6,7 @@
 #    By: alsaeed <alsaeed@student.42abudhabi.ae>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/03/31 21:28:09 by alsaeed           #+#    #+#              #
-#    Updated: 2024/04/30 13:39:55 by alsaeed          ###   ########.fr        #
+#    Updated: 2024/04/30 13:41:53 by alsaeed          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -41,4 +41,4 @@ fclean: clean
 
 re: fclean all
 
-.PHONY: all clean
+.PHONY: all clean fclean re
