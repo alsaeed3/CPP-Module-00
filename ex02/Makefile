@@ -6,13 +6,12 @@
 #    By: alsaeed <alsaeed@student.42abudhabi.ae>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/04/02 09:46:49 by alsaeed           #+#    #+#              #
-#    Updated: 2024/04/10 03:34:28 by alsaeed          ###   ########.fr        #
+#    Updated: 2024/04/30 13:40:15 by alsaeed          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 CXX		= c++
-CXXFLAGS	= -std=c++98
-#-Wall -Wextra -Werror
+CXXFLAGS	= -Wall -Wextra -Werror -std=c++98
 NAME	= Account
 
 OBJ_DIR = ./obj/

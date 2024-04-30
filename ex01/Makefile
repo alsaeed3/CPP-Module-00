@@ -6,15 +6,15 @@
 #    By: alsaeed <alsaeed@student.42abudhabi.ae>    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/04/02 09:46:46 by alsaeed           #+#    #+#              #
-#    Updated: 2024/04/10 03:34:39 by alsaeed          ###   ########.fr        #
+#    Updated: 2024/04/30 13:40:34 by alsaeed          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 	
-CXX		= c++
-CXXFLAGS	= -Wall -Wextra -Werror -std=c++98
+CXX = c++
+CXXFLAGS = -Wall -Wextra -Werror -std=c++98
 
-NAME	= phonebook
+NAME = phonebook
 
 OBJ_DIR = ./obj/
 SRCS = Contact.cpp Phonebook.cpp
